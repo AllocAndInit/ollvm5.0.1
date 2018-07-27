@@ -42,4 +42,4 @@ https://github.com/obfuscator-llvm/obfuscator/wiki
 * Bogus Control Flow -mllvm -bcf
 * Control Flow Flattening -mllvm -fla
 * String Obfuscation -mllvm -sobf
-# ollvm5.0
+# ollvm5.0.1
