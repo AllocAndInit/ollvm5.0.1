@@ -47,12 +47,13 @@ autoconf/autom4te.cache
 #==============================================================================#
 # External projects that are tracked independently.
 projects/*
+!projects/compiler-rt
 !projects/*.*
 !projects/Makefile
 runtimes/*
 !runtimes/*.*
 # Clang, which is tracked independently.
-tools/clang
+# tools/clang
 # LLDB, which is tracked independently.
 tools/lldb
 # lld, which is tracked independently.
