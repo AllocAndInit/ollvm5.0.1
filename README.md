@@ -22,27 +22,15 @@ https://github.com/obfuscator-llvm/obfuscator/wiki
 
 ##### Build:
 
-  * git clone https://github.com/Qrilee/llvm-obfuscator
+  * git clone https://github.com/AllocAndInit/ollvm5.0.1.git
   
   * mkdir build
   
   * cd build
   
-  * cmake -DCMAKE_BUILD_TYPE=Release ../Obfuscator-LLVM/
+  * cmake -DCMAKE_BUILD_TYPE=Release ../ollvm5.0.1
   
   * make -j7
-  
-  Build pass for windows:
-  
-     MinGW64 for Windows
-     
-     Cmake 3.9 rc5 for Windows x64
-     
-  Build pass for linux:
-  
-     gcc&g++ 7.2.0
-     
-     cmake 3.8.0
      
 ##### Use:
 
